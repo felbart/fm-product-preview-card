@@ -23,7 +23,7 @@ This is a solution to the [Product Preview Card challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/felbart/fm-product-preview-card)
-- Live Site URL: [Add live site URL here](https://fb-qrcode-component.netlify.app/)
+- Live Site URL: [Add live site URL here](https://fb-prduct-preview.netlify.app/)
 
 ## My process
 
